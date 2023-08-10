@@ -1,0 +1,23 @@
+[href^="https"] 
+{    
+    color: red;   
+}
+.text-box h3 {
+    color: pink;
+}
+
+.text-box p#greycol {
+    color: grey;
+}
+
+.text-box div p {
+    color: red;
+}
+
+.text-box p:nth-child(3) {
+    color: green;
+}
+
+.text-box p.yellow {
+    color: yellow;
+}
